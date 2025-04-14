@@ -1,5 +1,7 @@
 def is_prime():
-    pass
+    """this method will find this is prime or not 
+    """
+    return False
 
 def is_even():
     pass
